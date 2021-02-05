@@ -159,6 +159,18 @@ a:link, a:visited {
         float:left;
         padding: 10px;
     }
+    #animation>div{
+        border: white solid;
+        width: 400px;
+        height: 400px;
+        float: left;
+        margin-top: -350px;
+        margin-left: 80px;
+       
+    }
+    #animation>div>img{
+        width: 100%;
+    }
    
     .clear{
         clear: both;
