@@ -1,0 +1,106 @@
+#signup{
+    background-color: rgb(28, 81, 102);
+    border:rgb(28, 81, 102) ;
+    height: 850px;
+}
+#signup>p{
+    border: rgb(28, 81, 102) solid;
+    width: 200px;
+    height: 30px;
+    margin-left: 550px;
+    padding: 10px;
+   
+}
+#signup>img{
+   width: 100%;
+  
+}
+#sign{
+    background-color: white;
+    border: white solid;
+    width: 80%;
+    height: 70%;
+    margin-left: 10%;
+}
+#sign>h3{
+    text-align: center;
+    font-size: 25px;
+    margin: 10px;
+    color: rgb(9, 27, 34);
+}
+#sign>h2{
+    text-align: center;
+    font-size: 30px;
+    color: rgb(83, 105, 114);
+}
+.up1{
+    border: white solid;
+    width: 45%;
+    height: 75%;
+    float: left;
+    margin-left: 4%;
+}
+.up1 input{
+    border:1px solid rgb(51, 50, 50);
+    width: 300px;
+    height: 30px;
+    margin-top: 5px;
+    margin-bottom: 30px;
+}
+.up1 label {
+       font-size: 24px;
+}
+
+label, input{
+    display:block
+}
+.up1 input[type="submit"]{
+    background-color: rgb(62, 150, 185);
+    color: white;
+    font-size: 25px;
+    border-radius: 5px;
+    padding: 6px;
+    height: 40px;
+    
+}
+.up1>div:nth-child(2){
+ width: 60%;
+ height: 30px;
+ float: left;
+ border: rgb(62, 150, 185) solid;
+ border-radius: 5px;
+}
+.up1>div:nth-child(2)>img{
+    float: left;
+    margin-left: 80px;
+    width: 7%;
+    margin-top: 5px;
+}
+.up1>div:nth-child(2)>h2{
+    font-size: 12px;
+    margin-left: 0px;
+    float: left;
+}
+.up2{
+    border:white solid;
+    width: 40%;
+    height: 75%;
+    float: left;
+}
+
+.up2>div>p{
+    margin-left: 10px;
+    padding: 10px;
+    font-size: 18px;
+}
+.up2>div>h4>p{
+    color: rgb(70, 142, 170);
+}
+#signup>h5{
+ text-align: center;
+ font-size: 18px;
+ color: white;
+}
+a{
+    color: rgb(58, 155, 194);
+}
