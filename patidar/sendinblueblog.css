@@ -1,3 +1,135 @@
+
+a:link, a:visited {
+    text-align: center;
+    text-decoration: none;
+  }
+#login button:hover,#login button:active{
+    background-color:rgb(0, 126, 165);
+}
+#log a:hover,#log a:active{
+    background-color:rgb(231, 231, 231);
+}
+#headbar{
+    height: 15vh;
+    margin: auto;
+    grid-area: headbar;
+    display: flex;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: white;
+}
+#logo{
+    width:17%;
+    height: 80%;
+    margin-top: 1%;
+    margin-left: 7%;
+}
+#drop{
+    width:40%;
+    height: 80%;
+    margin-left: 10%;
+    display:flex;
+    margin-top: 2%;
+}
+#drop button{
+    background-color: white;
+}
+#drop1{
+    width:16%;
+    height: 30%;
+}
+#drop2{
+    width:16%;
+    height: 30%;
+}
+#drop3{
+    width:20%;
+    height: 30%;
+    margin-left: 2%;
+}
+#login{
+    width:20%;
+    height: 80%;
+    margin-left: 10%;
+    display: flex;
+    font-family: sans-serif;
+}
+#en{
+    width:20%;
+    height:30%;
+    margin-top: 10%;
+}
+#log{
+    height:30%;
+    margin-top: 10%;
+    width:20%;
+}
+
+#login button{
+    height: 45%;
+    margin-top: 5%;
+    font-size:17px;
+    width:45%; 
+    border-radius: 40px;
+    border:white ;
+    background-color:#0092ff;
+}
+#login a{
+    color: white;
+    font-size:17px;
+}
+#log a{
+    color:black;
+}
+.dropbtn {
+    color: gray;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+.dropbtn:hover, .dropbtn:focus {
+    color:black;
+}
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    overflow: auto;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+.dropdown-content a {
+    color: gray;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+.dropdown a:hover {
+    color:black;
+    background-color: #ddd;
+}
+.show{
+    display: block;
+}
+#dropbutton{
+    height: 17%;
+}
+.arrow {
+    border: solid gray;
+    border-width: 0 2px 2px 0;
+    display: inline-block;
+    padding: 3px;
+  }
+.down {
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+  }
 #blog>h1{
     /* border: black solid; */
     margin-top: 150px;
@@ -331,8 +463,8 @@
     #commerce{
         width:100%;
         height: 450px;
-        background-color: rgb(255, 224, 228);
-        border:rgb(255, 224, 228) solid ;
+        background-color:  #ffd9d4;
+        border: #ffd9d4 solid ;
     }
     #commerce>div:nth-child(1){
          border: rgb(224, 180, 224);
