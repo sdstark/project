@@ -22,7 +22,8 @@ a:link, a:visited {
     width:17%;
     height: 80%;
     margin-top: 1%;
-    margin-left: 7%;
+    margin-left: 8%;
+    margin-right: -3%;
 }
 #drop{
     width:40%;
@@ -40,24 +41,26 @@ a:link, a:visited {
 }
 #drop2{
     width:16%;
+    margin-left:3%;
     height: 30%;
 }
 #drop3{
     width:20%;
     height: 30%;
-    margin-left: 2%;
+    margin-left: 1%;
 }
 #login{
     width:20%;
     height: 80%;
-    margin-left: 10%;
+    margin-left: 0%;
     display: flex;
     font-family: sans-serif;
 }
 #en{
     width:20%;
     height:30%;
-    margin-top: 10%;
+    margin-top: 10.5%;
+    margin-right: -6%;
 }
 #log{
     height:30%;
