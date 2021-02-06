@@ -1,6 +1,6 @@
-# project
+# Project
 
-Project Sendinblue
+Project Sendinblue.
 
 ## Description
 
