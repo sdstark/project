@@ -36,8 +36,8 @@ If Different Pages Not Work, Check your Folders Path.
 
 ## Authors
 
-Surya S (sm2_178)
-Pawan Patidar
+* Surya S (sm2_178)
+* Pawan Patidar (sm2_120)
 
 ## Acknowledgments
 
