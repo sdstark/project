@@ -1,6 +1,6 @@
 # project
 
-Project sendinblue
+Project Sendinblue
 
 ## Description
 
