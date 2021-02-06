@@ -12,10 +12,16 @@ We built five pages of sendinblue website with some functions.
 
 * Web browser,Code Editor,Any OS supports Chrome/Mozilla Fire Fox.
 
+## Libraries Used
+
+* HTML - For Building Website Layout.
+* CSS - For Styling And Designing Layout.
+* Java Script - For Adding Functions Like DropDown List.
+
 ### Installing
 
 
-* Download main folder from GitHub Repo
+* Download main folder from GitHub Repo.
 * Modifications need to be made to files/folders path.
 
 ### Executing program
